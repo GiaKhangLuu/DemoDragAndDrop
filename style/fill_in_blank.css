@@ -8,12 +8,7 @@ ul {
 li { 
     margin: 5px; 
     padding: 5px; 
-    width: 150px; 
-    border: 1px solid black;
+    width: 40px; 
+    height: 40px;
     display: inline;
-}
-
-.ui-state-highlight {
-    background-color: blue;
-    height: 20px;
 }
